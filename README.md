@@ -15,7 +15,10 @@ A simple command-line expense tracker application built with Python.
 ## Installation
 
 1. Clone this repository or download the files
-2. Install the required dependencies:
+   ```
+   https://github.com/CireWire/studious-carnival.git
+   ```
+3. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
